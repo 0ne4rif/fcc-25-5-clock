@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+body {
+  background: #021e90;
+  color: white;
+  font-size: 30px;
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.timer-interval {
+  background-color: #021e90;
+  color: #fff;
+  display: inline-block;
+  border: 1px solid transparent;
+}
+
+.btn-dark {
+  margin: 10px;
+  font-weight: 400;
+}
+
+.timer-label {
+  margin-right: 10px;
+  margin-left: 10px;
+  display: inline-block;
+}
